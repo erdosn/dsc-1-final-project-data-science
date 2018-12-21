@@ -127,7 +127,7 @@ Your presentation should:
 * Take no more than 5 minutes to present.   
 * Avoid technical jargon and explain the results in a clear, actionable way for non-technical audiences.   
 
-**_Your presentation should contain at least 2 concrete recommendations for how to improve the selling price of a home._**
+**_Based on the results of your models, your presentation should discuss at least two concrete features that highly influence housing prices._**
 
 ### 3. Blog Post
 
